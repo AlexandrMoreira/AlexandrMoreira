@@ -14,7 +14,7 @@
 
   
   
-### Tecnologias do meu dia a da 
+### Tecnologias do meu dia a dia:
   
   
 <div style="display: inline_block"><br>
