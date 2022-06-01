@@ -3,6 +3,7 @@
 
 
 
+📚 Formado em Administração de Empresas, Engenharia de Produção e Green Belt Lean Six Sigma;
 
 💻 Estudante de Python, SQL, NoSQL, CRISP-DM, SCRUM, dentre outros...
 
