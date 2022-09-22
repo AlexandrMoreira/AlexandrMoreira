@@ -5,7 +5,7 @@
 
 📚 Formado em Administração de Empresas, Engenharia de Produção e Green Belt Lean Six Sigma;
 
-💻 Estudante de Python, SQL, NoSQL, CRISP-DM, SCRUM, dentre outros...
+💻 Estudante de Python, SQL, NoSQL, CRISP-DM, SCRUM, SAP, SAP HANA, dentre outros...
 
 <div align="left">
 <a href="https://github.com/AlexandrMoreira">
@@ -24,6 +24,8 @@
 <img align="center" alt="AM-Python" height="40" width="150" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
    
 <img align="center" alt="AM-Python" height="40" width="150" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+<img align="center" alt="AM-Python" height="40" width="150" src="https://dbdb.io/media/logos/hana.png">
 </div>
 
   
