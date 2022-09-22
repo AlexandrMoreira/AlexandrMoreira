@@ -6,14 +6,10 @@
 	T0."U_SPS_PROD_Kilo_por_Metro" as "PesoAtual",
 	CAST ((T0."U_SPS_PROD_KmNominal" / NULLIF(T0."U_SPS_PROD_Kilo_por_Metro",0)) AS DECIMAL(26,2))  || 'Kg' as "Kg/Nominal",
 	CAST ((T0."U_SPS_PROD_KmNominal" / NULLIF(T0."U_SPS_PROD_Kilo_por_Metro",0)) * 100 AS DECIMAL(26,2))  || '%' as "Kg/Nominal"
-	 
-	 
-	 
+	 	 	 
 FROM
-
 	OITM T0
 	
-
 WHERE 
 
 	T0."U_SPS_PROD_KmNominal" IS NOT NULL
