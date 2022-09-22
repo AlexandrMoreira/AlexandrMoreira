@@ -25,7 +25,7 @@
    
 <img align="center" alt="AM-Python" height="40" width="150" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   
-<img align="center" alt="AM-Python" height="40" width="150" src="[https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://claudinosoftware.com.br/wp-content/uploads/2021/01/SAP_BOne_R_3.png)">
+<img align="center" alt="AM-Python" height="40" width="150" src="https://claudinosoftware.com.br/wp-content/uploads/2021/01/SAP_BOne_R_3.png"> 
 
 <img align="center" alt="AM-Python" height="40" width="150" src="https://dbdb.io/media/logos/hana.png">
 </div>
